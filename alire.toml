@@ -1,0 +1,13 @@
+name = "offmt"
+description = "Offloaded formatting support library"
+version = "0.0.0"
+
+authors = ["Fabien Chouteau"]
+maintainers = ["Fabien Chouteau <fabien.chouteau@gmail.com>"]
+maintainers-logins = ["Fabien-Chouteau"]
+
+[[depends-on]]
+cobs = "~0.1.0"
+
+[[pins]]
+cobs = { url='https://github.com/Fabien-Chouteau/COBS' }
